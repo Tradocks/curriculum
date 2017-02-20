@@ -1,0 +1,17 @@
+img
+{
+    display: block;
+    margin: auto;  
+    width: 30%;
+    size: auto;
+}
+table
+{
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+}
+td
+{
+    width: 200px;    
+}
